@@ -1,7 +1,7 @@
-x = 5
-y = 10
+num1 = 2
+num2 = 7
 
-x, y = y, x
+num1, num2 = num2, num1
 
-print("x =", x)
-print("y =", y)
+print("num1 = ",num1)
+print("num2 = ",num2)
